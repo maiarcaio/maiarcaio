@@ -35,7 +35,6 @@ Python · SQL · Pandas · NumPy · scikit-learn · NLP · LLMs · RAG · LangCh
 
 ## Contato
 
-- LinkedIn: adicione seu perfil quando quiser conectar esta página ao seu LinkedIn.
 - GitHub: [@maiarcaio](https://github.com/maiarcaio)
 
 Estou aberto a oportunidades, colaborações e projetos relacionados a AI Engineering.
