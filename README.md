@@ -1,32 +1,38 @@
 # Hi, I'm Caio Maia 👋
 
-**Applied AI & Python/FastAPI builder | Technical support, operations and workflow automation**
+**Experienced operations and customer-facing professional building applied AI and Python/backend software.**
 
-I'm transitioning into AI engineering through Ironhack's full-time AI Engineering Bootcamp. Before moving into software, I worked across customer support, legal/compliance and operational processes. I enjoy turning unclear real-world problems into explainable, testable systems.
+I bring experience across **customer support, legal/compliance, payroll and business operations** to my software projects. My transition is into a new engineering specialization—not a restart of my professional career.
 
-My current interests are **Python APIs, evidence-grounded LLM applications, retrieval, workflow integration, and reliability/evaluation**. The repositories below distinguish independent work, team contributions and coursework.
+At Ironhack's full-time AI Engineering Bootcamp, I am extending that background with hands-on Python, APIs, machine learning, NLP, LLM applications and collaborative development. I am interested in engineering problems well beyond my previous industries, especially systems that must be **useful, explainable, testable and dependable**.
 
-## Selected engineering work
+## Selected technical work
 
-| Project | What I built or contributed | Evidence & scope |
+| Project | What I built or contributed | Evidence and status |
 | --- | --- | --- |
-| [Knowledge Forge](https://github.com/maiarcaio/knowledge-forge) · **Independent project** | A local-first FastAPI application for saving source records, ingesting available YouTube captions, searching timestamped evidence via SQLite FTS5, and producing cited answers with optional LLM assistance. | [Code](https://github.com/maiarcaio/knowledge-forge/tree/main/knowledge_forge) · [Tests](https://github.com/maiarcaio/knowledge-forge/tree/main/tests) · Local prototype; vector/hybrid retrieval is **planned**, not implemented. |
-| [Atena — AI-Powered Career Coach](https://github.com/maiarcaio/ai-powered-career-coach) · **Collaborative Ironhack project** | Built the CV Reviewer API and React/API integration; contributed demo scenarios and technical documentation. The team application also contains mock interviews, job discovery and job-fit analysis. | [My CV API commit](https://github.com/maiarcaio/ai-powered-career-coach/commit/0514c25b) · [My React integration commit](https://github.com/maiarcaio/ai-powered-career-coach/commit/e5a9c8c). Team-owned MVP, not a production-deployed service. |
-| [Amazon Reviews NLP](https://github.com/fonsecadiogo/project-nlp-customer-reviews-df-cm) · **Collaborative Ironhack project** | Contributed data exploration, sentiment-classification experiments, and a Streamlit app using saved model artifacts. | [My contribution history](https://github.com/fonsecadiogo/project-nlp-customer-reviews-df-cm/commits?author=maiarcaio). Team project; deployment status and performance should be checked against the repository. |
+| **[Knowledge Forge](https://github.com/maiarcaio/knowledge-forge)** — independent Python/FastAPI project | Built a local-first application for preserving source records, ingesting available YouTube captions, retrieving timestamped evidence through SQLite FTS5, and generating optional grounded LLM answers. | [Source code](https://github.com/maiarcaio/knowledge-forge/tree/main/knowledge_forge) · [Automated checks](https://github.com/maiarcaio/knowledge-forge/actions/workflows/python-tests.yml) · Local prototype; vector/hybrid retrieval and production deployment are not yet implemented. |
+| **[Atena — AI-Powered Career Coach](https://github.com/maiarcaio/ai-powered-career-coach)** — collaborative React/FastAPI project | Implemented the CV Reviewer API, built its React/API integration, and contributed demo scenarios and documentation. The wider app includes work by my teammate. | [My CV API commit](https://github.com/maiarcaio/ai-powered-career-coach/commit/0514c25b) · [My React integration commit](https://github.com/maiarcaio/ai-powered-career-coach/commit/e5a9c8c). Local deterministic tests reported passing; frontend HTTP 200 alone does not establish a functioning hosted backend. |
+| **[Amazon Reviews NLP](https://github.com/fonsecadiogo/project-nlp-customer-reviews-df-cm)** — collaborative ML/NLP project | Contributed EDA, sentiment-model experiments, saved model artifacts, a Streamlit MVP, and cleanup/validation. | [My Streamlit commit](https://github.com/fonsecadiogo/project-nlp-customer-reviews-df-cm/commit/3d3ddfb) · [My contribution history](https://github.com/fonsecadiogo/project-nlp-customer-reviews-df-cm/commits?author=maiarcaio). Public deployment is not currently verified as anonymously accessible. |
 
-## What I bring to engineering work
+**Project boundaries:** Independent and collaborative work are identified explicitly. Tests and demos demonstrate the stated scope; they are not claims of production use, commercial software-engineering employment or end-to-end ownership of teammate features.
 
-- **Customer investigation:** managed approximately 30–40 support/compliance cases daily at Concentrix, using Zendesk, Jira, Twilio and internal documentation to investigate and escalate problems.
-- **Process and risk judgment:** experience in legal, payroll and operational workflows where evidence, accuracy and human review matter.
-- **Technical development:** current hands-on projects with Python, FastAPI, Pydantic, React integrations, SQLite, LLM APIs, Git and testing.
+## What I bring from professional work
 
-## Building next
+- **Customer investigation and escalation:** managed approximately 30–40 daily support/compliance cases at Concentrix using Zendesk, Jira, Twilio and structured documentation.
+- **Records, data quality and deadlines:** handled payroll/statutory records and reconciliations using Thomson Reuters ERP in a professional accounting environment.
+- **Legal judgment and human-review workflows:** worked with evidence, regulated processes, sensitive documentation and decisions requiring careful review.
+- **Operational delivery and collaboration:** coordinated tasks, records and stakeholder communication in international and multi-team environments.
 
-I'm strengthening independent backend engineering, SQL, evaluation suites, integration debugging, deployment and observability. My focus is to build systems with measurable behavior, clear failure handling and reproducible setup—not to claim production experience before I have it.
+These aren't substitutes for engineering experience: they inform the problems I choose, the constraints I recognize and how I approach implementation and troubleshooting.
 
-**Interested in:** Applied AI / AI Automation · Technical Implementation · AI-platform Product/Technical Support · Python Backend.
+## What I'm developing next
 
-- [Connect on LinkedIn](https://www.linkedin.com/in/caiorodriguesmaia/)
-- [Browse my public projects](https://github.com/maiarcaio?tab=repositories)
+Independent backend depth, SQL and API integration, robust testing, evaluations, observability and deployable AI workflows. Some of this is already present in my projects; other capabilities are active learning goals.
 
-*The course labs in this account document practice and learning. They are not presented as independent production applications.*
+**Career interests:** Applied AI · AI Automation · Python/Backend · Technical Implementation · Customer/Solutions Engineering · AI-platform Product & Technical Support.
+
+I'm open to international remote opportunities and Barcelona-based hybrid roles.
+
+[LinkedIn](https://www.linkedin.com/in/caiorodriguesmaia/) · [Public repositories](https://github.com/maiarcaio?tab=repositories)
+
+*Course labs remain visible as learning history; the projects above are the primary evidence of my technical contributions.*
