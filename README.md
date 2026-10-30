@@ -1,10 +1,12 @@
 # Hi, I'm Caio Maia 👋
 
-**Applied AI & Python/FastAPI builder | Technical support, operations and workflow automation**
+**Applied AI & Technical Implementation | Python, FastAPI, LLM applications and API integrations**
 
-I'm transitioning into AI engineering through Ironhack's full-time AI Engineering Bootcamp. Before moving into software, I worked across customer support, legal/compliance and operational processes. I enjoy turning unclear real-world problems into explainable, testable systems.
+I build practical AI and backend systems for document-heavy workflows: incomplete information, operational exceptions, source evidence and decisions that need human review. My background spans legal/compliance, customer support and operations. I now turn that experience into software through independent projects and Ironhack's full-time AI Engineering Bootcamp.
 
 My current interests are **Python APIs, evidence-grounded LLM applications, retrieval, workflow integration, and reliability/evaluation**. The repositories below distinguish independent work, team contributions and coursework.
+
+**Current build focus:** adding a small evaluation corpus to Knowledge Forge so retrieval quality, citation support and abstention behavior can be measured instead of assumed.
 
 ## Selected engineering work
 
