@@ -17,12 +17,12 @@ My current focus is **Python APIs, evidence-grounded LLM applications, retrieval
 ## What I bring to engineering work
 
 - **Applied AI development:** Python, FastAPI, REST APIs, LLM applications, NLP, machine learning, retrieval and API integration.
+- **Professional investigation:** handled approximately 30–40 support and compliance cases daily at Concentrix, using Zendesk, Jira and Twilio for evidence gathering, documentation and escalation.
 - **Workflow and risk judgment:** experience in legal, compliance, payroll and operational workflows where evidence, accuracy and human review matter.
-- **Technical implementation:** customer and compliance investigation, process mapping, document workflows, integration debugging and clear technical documentation.
 
 ## Building next
 
-I'm strengthening independent backend engineering, SQL, evaluation suites, integration debugging, deployment and observability. My focus is to build systems with measurable behavior, clear failure handling and reproducible setup—not to claim production experience before I have it.
+I'm strengthening independent backend engineering, SQL, evaluation suites, deployment and observability. My next increments are measured retrieval quality, clearer error handling and reproducible setup—not claims of production experience I do not yet have.
 
 **Target roles:** Applied AI Engineer · AI Implementation Engineer · Solutions Engineer · Forward Deployed Engineer · Technical Implementation Engineer
 
